@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiBasics</name>
+    </assembly>
+    <members>
+        <member name="T:API.Models.Product">
+            <summary>
+            Product class 
+            </summary>
+        </member>
+        <member name="P:API.Models.Product.ProductId">
+            <summary>
+            Product Id
+            </summary>
+        </member>
+        <member name="P:API.Models.Product.ProductName">
+            <summary>
+            Product Name
+            </summary>
+        </member>
+        <member name="P:API.Models.ResponseHeader.Status">
+            <summary>
+            Response Status
+            </summary>
+        </member>
+        <member name="P:API.Models.ResponseHeader.ResponseCode">
+            <summary>
+            Response Code
+            </summary>
+        </member>
+        <member name="P:API.Models.ResponseHeader.Message">
+            <summary>
+            Response Message
+            </summary>
+        </member>
+    </members>
+</doc>
